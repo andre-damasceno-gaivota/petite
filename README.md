@@ -1,1 +1,1 @@
-- [Petite](https://htmlpreview.github.io/?https://github.com/andrelbd1/petite/blob/main/teste.html)
+- [PETITE](https://htmlpreview.github.io/?https://github.com/andrelbd1/petite/blob/main/teste.html)
